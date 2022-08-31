@@ -1,2 +1,2 @@
 # Rescuer (Android)
-Prototype of 2D mobile game and my first original idea. I hope you like it! :)
+Prototype of a hyper-casual mobile 2D game with an original concept. I hope you like it! :)
